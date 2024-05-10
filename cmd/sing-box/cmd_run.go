@@ -205,5 +205,5 @@ func closeMonitor(ctx context.Context) {
 		return
 	default:
 	}
-	log.Fatal("sing-box did not close!")
+	log.Fatal("air-box did not close!")
 }

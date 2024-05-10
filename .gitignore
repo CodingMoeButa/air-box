@@ -14,3 +14,6 @@
 /*.xcframework/
 .DS_Store
 /config.d/
+
+air-box
+air-box.exe
